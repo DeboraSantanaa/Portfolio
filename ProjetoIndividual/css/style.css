@@ -1,0 +1,313 @@
+body {
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: 0;
+}
+
+
+
+.fundo {
+    margin-top: 20px;
+    background-image: url(/img/hello\,world.jpg);
+    height: 200px;
+ background-repeat: no-repeat;
+ margin-left: 450px;
+}
+
+
+
+  .foto img {
+    margin-top: 20px;
+    margin-left: 80px;
+    border-radius: 200px;
+    border: solid 2px white;
+    width: 300px;
+}
+.foto{
+    background-color: #3b3759;
+      
+
+}
+#eu {
+    font-size: 100px;
+    font-family: Ms Madi;
+    color: #fff;
+    
+    }
+
+
+.contato {
+    float: right;
+    margin-right: 300px;
+    margin-top: 200px;
+    color: #3b3759;
+}
+
+.contato h2 {
+    text-align: center;
+    font-size: 3em;
+    margin-bottom: 30px;
+
+}
+
+
+.contato p {
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 20px;
+    margin-top: -110px;
+
+}
+
+.icon {
+    text-align: center;
+ 
+}
+
+.icon img {
+    height: 35px;
+    width: 35px;
+    margin: 15px;
+     
+
+  
+}
+
+#icone:hover {
+    transform: scale(1.3);
+    transition: 1s;
+}
+
+#html:hover , #css:hover ,#imagemLin:hover ,#cplus:hover , 
+#sql:hover , #py:hover , #java:hover , #php:hover ,
+ #react:hover , #angular:hover   {
+
+    transform: scale(1.3);
+    transition: 1s;
+
+
+}
+
+section {
+    margin-top: 100px;
+}
+
+.sobre h1 {
+    font-size: 35px;
+    padding: 15px;
+ 
+    
+}
+
+.sobre h1 {
+    background-color: #3b3759;
+    padding: 15px;
+    color:white ;
+   
+}
+
+.sobre p {
+    font-size: 20px;
+    padding: 15px;
+}
+
+.interesses h1,
+.hobbies h1 {
+    font-size: 40px;
+    padding: 10px;
+    background-color: #3b3759;
+}
+
+#texto2,
+#texto1,
+#textoh {
+    width: 100%;
+    color: #3b3759;
+    font-size: x-large;
+}
+
+.interesses p,
+.hobbies p {
+    font-size: 20px;
+    padding: 15px;
+}
+
+.linguagem {
+    text-align: center;
+}
+
+.linguagem img {
+    width: 130px;
+    height: 150px;
+    margin: 50px;
+}
+
+#imagemLin {
+    width: 250px;
+    margin-left: -10px;
+}
+
+
+.interesses h2 {
+    padding: 15px;
+
+}
+
+#descri {
+    display: block;
+}
+
+.formulario {
+    text-align: center;
+    margin-top: 80px;
+
+}
+
+.formulario h1 {
+    font-size: 40px;
+}
+
+label {
+    margin-top: 30px;
+    font-size: 25px;
+    color: #3b3759;
+}
+
+form {
+    margin-top: 50px;
+}
+
+input {
+    width: 600px;
+    height: 45px;
+    border-radius: 20px;
+    font-size: 20px;
+}
+
+#obs {
+    border-radius: 15px;
+    font-size: 19px;
+   
+}
+
+.botao {
+    margin-top: 20px;
+}
+
+#botao {
+    height: 40px;
+    width: 200px;
+    border-radius: 10px;
+    background-color:#3b3759;
+    color: white;
+
+
+}
+
+#botao2 {
+    margin: 20px;
+    height: 40px;
+    width: 200px;
+    border-radius: 10px;
+    background-color: #3b3759;
+    color: white;
+    
+
+}
+
+footer {
+    background-color: #cf8da7;
+    height: 300px;
+    width: 100%;
+    color: white;
+    font-size: x-large;
+   
+}
+
+.contatos1 {
+    float: left;
+    padding: 15px;
+    margin-left: 60px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.redesoc {
+    margin-top: 50px;
+    float: right;
+    padding: 15px;
+    margin-right: 200px;
+    text-align: center;
+}
+
+.redesoc img {
+    height: 30px;
+    width: 30px;
+}
+
+.rede {
+    margin-top: 10px;
+}
+
+.contatos1 h3,
+p {
+    margin-top: 10px;
+}
+
+.feito {
+    background-color: #3b3759;
+    text-align: center;
+    height: 30px;
+    font-size: 20px;
+    color: white;
+    
+}
+
+h1,
+h2 {
+    color: white;
+
+}
+#dicas{
+    color: #3b3759;
+}
+li{
+    display: inline;
+font-size: x-large;
+margin-left: 50px;
+
+}
+
+
+.navbar{
+    text-align: center;
+    background-color:#3b3759;
+
+}
+.navbar a {
+    text-decoration: none;
+    color: #fff;
+
+}
+
+#men{
+    transition: all .5s;
+    border: 3px solid transparent;
+ 
+
+}
+#men :hover {
+    color:white;
+    background-color: #cf8da7;
+transform: scale(1.1);
+    transition: 1s;
+}
+#pormim{
+ 
+ text-align: center;
+}
+#ctt{
+    background-color:#3b3759;
+    font-size: 45px;
+}
