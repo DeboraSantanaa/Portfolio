@@ -1,6 +1,7 @@
 # ProjetoIndividual
+# 👋 Hello! Welcome to my Github profile.
 
- # Portfolio 
+ # Tecnologias utilizadas
 A tecnologia utilizada foi o html:5 e CSS
 utilizei algumas tags e o hover para trazer um pouco mais de dinâmica  para a minha página.
 
